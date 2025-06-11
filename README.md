@@ -38,7 +38,7 @@ or you can add cdn link in your html
   href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
 />
 ```
-```json
+```jsx
 import React from "react";
 import Slider from "react-slick";
 
